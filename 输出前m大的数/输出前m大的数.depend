@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646742797 source:d:\python,c\输出前m大的数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651146871 source:d:\python,c\Äª¶Ó\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+	<string.h>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647160025 source:d:\python,c\drivers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650184542 source:d:\python,c\双端队列优先\main.cpp
+	<cstring>
+	<iostream>
+	<algorithm>
+	<deque>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660372233 source:d:\python,c\是否为同一棵二叉搜索树\main.c
+	<stdio.h>
+	<stdlib.h>
+

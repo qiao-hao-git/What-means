@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649469295 source:d:\python,c\保护果实\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648471393 source:d:\python,c\case4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651636915 source:d:\python,c\vpn\main.cpp
+	<iostream>
+	<string.h>
+

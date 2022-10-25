@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648285661 source:d:\python,c\surjective\main.c
+	<stdio.h>
+	<stdlib.h>
+

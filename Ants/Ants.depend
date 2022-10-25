@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649294476 source:d:\python,c\ants\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647159624 source:d:\python,c\good drivers and bad drivers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

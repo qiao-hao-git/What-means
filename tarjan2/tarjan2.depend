@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650365163 source:d:\python,c\tarjan2\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<cstring>
+	<vector>
+

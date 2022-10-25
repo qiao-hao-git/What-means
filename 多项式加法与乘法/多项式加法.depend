@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660115404 source:d:\python,c\多项式加法\main.c
+	<stdio.h>
+	<stdlib.h>
+

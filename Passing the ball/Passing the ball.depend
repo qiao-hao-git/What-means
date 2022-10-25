@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647159337 source:d:\python,c\passing the ball\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

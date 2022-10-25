@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646551422 source:d:\python,c\猴子选大王\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

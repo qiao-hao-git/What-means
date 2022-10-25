@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650367124 source:d:\python,c\tarjan\main.cpp
+	<iostream>
+	<string.h>
+	<stack>
+	<vector>
+	<cctype>
+

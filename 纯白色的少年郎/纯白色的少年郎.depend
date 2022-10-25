@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649679775 source:d:\python,c\纯白色的少年郎\main.cpp
+	<iostream>
+	<queue>
+	<string.h>
+

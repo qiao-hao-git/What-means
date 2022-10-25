@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650199448 source:d:\python,c\lca\main.cpp
+	<iostream>
+	<string.h>
+

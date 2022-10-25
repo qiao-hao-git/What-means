@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650980917 source:d:\python,c\Æ½ºâÊ÷\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+	<cstring>
+	<algorithm>
+	<climits>
+
